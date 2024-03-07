@@ -1,2 +1,2 @@
 # Penetration-Testing-Report
-Penetration Testing Report for a client
+This is a penetration report as a part of my college. The exam was based on a 4 hour session with hands-on penetration testing. Where the students has to find as many vulnerabilities as they can. Afterwards we got a timeframe of 5 days, to write a report which one section has to be a detailed section with one of the vulnerabilities we found. This was a capture the flag type of exam, for each vulnerability found it will prompt with an flag that we have to submit. 
