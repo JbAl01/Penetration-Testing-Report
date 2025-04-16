@@ -24,6 +24,16 @@ SQL Injection was found, and I felt it was obligatory to look for it and expose 
 
 <img width="908" alt="v04-e2" src="https://github.com/user-attachments/assets/d394cee2-b51b-477a-bc4b-23472985d799" />
 
+I saw a comment section where people can comment on a picture, and I tried this time another XSS and found that it was affecting all the people loading into that site which makes it a Stored Cross-Site Scripting.
+
+<img width="671" alt="v05-e1" src="https://github.com/user-attachments/assets/a19d1929-61cc-4781-8ff1-c1d486b5144e" />
+
+<img width="507" alt="v05-e2" src="https://github.com/user-attachments/assets/3df12a6a-fafe-448e-bdc7-a24083a32302" />
+
+
+
+
+
 
 
 
