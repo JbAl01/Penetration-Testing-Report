@@ -28,7 +28,15 @@ I saw a comment section where people can comment on a picture, and I tried this 
 
 <img width="671" alt="v05-e1" src="https://github.com/user-attachments/assets/a19d1929-61cc-4781-8ff1-c1d486b5144e" />
 
-<img width="507" alt="v05-e2" src="https://github.com/user-attachments/assets/3df12a6a-fafe-448e-bdc7-a24083a32302" />
+<img width="800" alt="v05-e2" src="https://github.com/user-attachments/assets/3df12a6a-fafe-448e-bdc7-a24083a32302" />
+
+And lastly, I found coupon code hardcoded into the website making me use it even though its expired. 
+
+<img width="634" alt="v06-e1" src="https://github.com/user-attachments/assets/db5dd8ce-cd40-4df8-b957-a3fb72a244d5" />
+
+<img width="677" alt="v06-e2" src="https://github.com/user-attachments/assets/8fd99543-f96d-4ce1-bdff-253352275620" />
+
+
 
 
 
