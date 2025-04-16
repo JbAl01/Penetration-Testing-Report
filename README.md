@@ -4,3 +4,9 @@ This is a penetration report as a part of my college. The exam was based on a 4 
 
 One of the vulnerabilties I found quickly was manipulation of ID in the URL, meaning there is no proper access control. And a leak code came up, meaning it was vulnerable to this.
 <img width="694" alt="v01-e1" src="https://github.com/user-attachments/assets/d64494d1-9006-4d6c-bf8b-38cbe3098bf4" />
+
+I went to other pages, and tried for XSS exploits on each page and found one in a vulnerable page
+
+<img width="600" alt="v02-e1" src="https://github.com/user-attachments/assets/0c000a8d-9dd2-497c-bfa8-ecd4cb8b96e4" />
+
+And it was vulnerable :D
