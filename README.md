@@ -13,9 +13,9 @@ And it was vulnerable :D
 I explored other parts of the site and inspected the source code to see if anything looked suspicious. I came across a PNG image link that stood out. Out of curiosity, I accessed the link—even though it seemed like it should’ve been restricted, since the image wasn’t displayed anywhere else on the site. Surprisingly, I was able to view the image directly, and it turned out to be a high-resolution, paid asset that I accessed for free. This vulnerability is called Broken Access Control, or unprotected file/resource endpoint.
 
 <img width="698" alt="v03-e1" src="https://github.com/user-attachments/assets/4053ee3e-4f08-402a-ae20-4f8c5dc0ae1e" />
-
+aa
 <img width="211" alt="v03-e2" src="https://github.com/user-attachments/assets/2d8d4e55-0904-4075-a349-c5cd1c6cb7f3" />
-
+aa
 <img width="981" alt="v03-e3" src="https://github.com/user-attachments/assets/498f9daf-b2ba-471c-8af7-37f6d3a3ab26" />
 
 
