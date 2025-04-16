@@ -16,6 +16,14 @@ I explored other parts of the site and inspected the source code to see if anyth
 aa
 <img width="800" alt="v03-e2" src="https://github.com/user-attachments/assets/2d8d4e55-0904-4075-a349-c5cd1c6cb7f3" />
 aa
-<img width="981" alt="v03-e3" src="https://github.com/user-attachments/assets/498f9daf-b2ba-471c-8af7-37f6d3a3ab26" />
+<img width="981" alt="v03-e3" src="https://github.com/user-attachments/assets/498f9daf-b2ba-471c-8af7-37f6d3a3ab26" />.
+
+SQL Injection was found, and I felt it was obligatory to look for it and expose it.
+
+<img width="500" alt="v04-e1" src="https://github.com/user-attachments/assets/e89fc8ae-118f-4c54-907a-8147ac404433" />
+
+<img width="908" alt="v04-e2" src="https://github.com/user-attachments/assets/d394cee2-b51b-477a-bc4b-23472985d799" />
+
+
 
 
